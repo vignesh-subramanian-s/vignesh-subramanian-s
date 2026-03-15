@@ -42,7 +42,7 @@ Multiclass time-series classification of physical activities from raw smartphone
 
 ## 📈 What I'm Working On
 
-- 🔭 Productionizing an ML-based Wheel Loader operation classification system on **AWS**
+- 🔭 Productionizing an ML-based Machine operation classification system on **AWS**
 - 📚 Preparing for **AWS Cloud Practitioner** certification
 - 🌱 Deepening expertise in **ML system design** and **experiment-driven development**
 
